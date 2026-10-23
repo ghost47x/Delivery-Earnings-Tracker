@@ -16,3 +16,4 @@ dist/
 
 # Secrets
 .env
+*.exe
