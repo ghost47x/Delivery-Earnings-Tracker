@@ -1,0 +1,18 @@
+# Personal delivery records
+*.db
+*.sqlite
+*.sqlite3
+deliveries.json
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+
+# Build files
+build/
+dist/
+*.spec
+
+# Secrets
+.env
